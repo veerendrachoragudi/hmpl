@@ -1,0 +1,12 @@
+Sure! Here is a simple example of a "Hello, World!" program written in a hypothetical minimal programming language (HMPL):
+
+```hmpl
+# Print "Hello, World!" to the console
+PRINT "Hello, World!"
+```
+
+In this example:
+- `PRINT` is a command in HMPL to output text to the console.
+- `"Hello, World!"` is the string that will be printed.
+
+This basic example demonstrates how you might use HMPL to display a message. If you have more specific requirements or additional functionality you'd like to see in HMPL, please let me know!
